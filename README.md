@@ -40,16 +40,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ### Description
-Download the MAF les for the following TCGA projects UCEC, ACC, SARC, BRCA using the TCGABiolinks package in R.
-(a) Save all datasets as RData les in the separate folders and files.<br>
-(b) Use the maftools package to plot three plots of your choice and save the gures (in PDF and PNG) in a neat folder structure.
+Download the MAF files for the following TCGA projects UCEC, ACC, SARC, BRCA using the TCGABiolinks package in R.
+(a) Save all datasets as RData files in the separate folders and files.<br>
+(b) Use the maftools package to plot three plots of your choice and save the figures (in PDF and PNG) in a neat folder structure.
 ## ROADMAP
 <ul>
   <li>Efficiently downloads MAF files for specific TCGA projects (UCEC, ACC, SARC, BRCA) using the TCGABiolinks package in R.</li>
   <li>Saves downloaded datasets as RData files in well-organized folders for easy future use.</li>
   <li>Utilizes the maftools package to generate informative plots (three user-defined plots) and saves them in both PDF and PNG formats within a structured directory.</li>
 </ul>
-## Languages Used
+### Languages Used
 
 R Packages 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
