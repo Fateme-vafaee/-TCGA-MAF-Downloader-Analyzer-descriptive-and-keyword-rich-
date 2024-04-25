@@ -28,7 +28,7 @@
     <li>
       <a href="#ROADMAP">ROADMAP</a>
     </li>
-    <li><a href="#Usage">Usage</a></li>
+    <li><a href="#Usage">How to Use</a></li>
     <li>
       <a href="#Customization">Customization</a>
     </li>
@@ -61,7 +61,7 @@ R Packages
 ### How to Use:
 <ol id="Usage">
   <li>Installation: Ensure you have R and RStudio installed on your system. Within RStudio, install the required packages:TCGABiolinks, maftools</li>
-  <li>Clone the Repository</li>
+  <li>Set the Repository</li>
   <li>Run main.R</li>
 </ol>
 
